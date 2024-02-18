@@ -1,6 +1,6 @@
 # Max Hutchings 
 ## MyJourney
-### First 4 Months
+### First 4 Months self-teaching
 1. Learnt the basics of Python.
 2. Learnt basic SQL.
 3. Completed IBM's data analyst course, using Python, SQL and Excel for data analysis.
