@@ -1,7 +1,7 @@
 # Max Hutchings
 ## Key Projects
 ### Full Stack Twitter clone 
-https://github.com/Max-Hutchings/Twitter-Clone 
+https://github.com/Max-Hutchings/Twitter-Clone <br>
 Full-stack Twitter clone built on Express.js, React.js and MongoDB. This utilises JWT for authentication and is passed through HTTPOnly cookies to maximise security.
 
 ### Java Spring Boot Authentication microservice
