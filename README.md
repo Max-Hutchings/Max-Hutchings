@@ -33,4 +33,4 @@ https://github.com/Max-Hutchings/NoteNest
 7. Professional workplace skills
 8. Agile
 9. Single Responsibility
-10. Finished building a full-stack twitter clone.
+10. Finished building a full-stack Twitter clone.
