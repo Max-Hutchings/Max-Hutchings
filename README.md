@@ -1,13 +1,16 @@
 # Max Hutchings
 ## Key Projects
 ### Full Stack Twitter clone 
-https://github.com/Max-Hutchings/Twitter-Clone <br>
+
 Full-stack Twitter clone built on Express.js, React.js and MongoDB. This utilises JWT for authentication and is passed through HTTPOnly cookies to maximise security.
-
+https://github.com/Max-Hutchings/Twitter-Clone 
+<br>
 ### Java Spring Boot Authentication microservice
+
 Java Spring Boot authentication microservice using JWT in HTTPOnly cookies.
+https://github.com/Max-Hutchings/Java-Spring-Boot-authentication-microservice 
 
-
+<br>
 ## MyJourney
 ### First 4 Months self-teaching
 1. Learnt the basics of Python.
