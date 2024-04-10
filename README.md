@@ -5,9 +5,9 @@
 Full-stack Twitter clone built on Express.js, React.js and MongoDB. This utilises JWT for authentication and is passed through HTTPOnly cookies to maximise security.
 <br> https://github.com/Max-Hutchings/Twitter-Clone <br>
 <br>
-### Java Spring Boot Authentication microservice
+### Java Spring Boot social media backend
 
-Java Spring Boot authentication microservice using JWT in HTTPOnly cookies.
+Java Spring Boot authentication microservice using JWT in HTTPOnly cookies. This application covers endpoints for authentication, posting, and posting comments to those posts.
 <br> https://github.com/Max-Hutchings/Java-Spring-Boot-authentication-microservice  <br>
 
 
