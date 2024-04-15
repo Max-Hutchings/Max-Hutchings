@@ -8,7 +8,7 @@ Full-stack Twitter clone built on Express.js, React.js and MongoDB. This utilise
 ### Java Spring Boot social media backend
 
 Java Spring Boot authentication microservice using JWT in HTTPOnly cookies. This application covers endpoints for authentication, posting, and posting comments to those posts.
-<be> https://github.com/Max-Hutchings/Java-Spring-Boot-social-media-backend  <br>
+<br> https://github.com/Max-Hutchings/Java-Spring-Boot-social-media-backend  <br>
 
 
 ## MyJourney
